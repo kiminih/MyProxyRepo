@@ -1,3 +1,6 @@
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
 PROCESS-NAME,msedgewebview2.exe
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,auth0.com
