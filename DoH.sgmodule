@@ -1,0 +1,9 @@
+#!name = Surge-DoH
+#!desc = Surge使用DNS-over-HTTPS (DoH)
+
+[General]
+dns-server = 223.5.5.5, 119.29.29.29, system
+encrypted-dns-server = https://223.5.5.5/dns-query,https://doh.pub/dns-query
+
+[Host]
+miwifi.com = 192.168.31.1
